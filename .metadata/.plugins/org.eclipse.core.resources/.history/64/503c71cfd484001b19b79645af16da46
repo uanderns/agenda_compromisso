@@ -1,0 +1,16 @@
+package br.com.cotiinformatica.reports;
+
+import java.io.ByteArrayInputStream;
+
+import br.com.cotiinformatica.dto.RelatorioCompromissoDTO;
+
+public class CompromissoReport {
+	
+	//método para retornar um relatório PDF em formato byte
+	public static ByteArrayInputStream getPdf(RelatorioCompromissoDTO dto) throws Exception {
+		
+		
+		return null;
+	}
+
+}

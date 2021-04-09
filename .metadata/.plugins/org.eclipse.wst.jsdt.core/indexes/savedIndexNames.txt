@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\WebJavaDeveloper-Domingo\Aula09\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+254718409.index
+3214100899.index
+258062965.index
+2541058627.index
+3868824619.index
+449614750.index
+1917521779.index
+1948101427.index
